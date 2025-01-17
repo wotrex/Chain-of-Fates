@@ -114,4 +114,14 @@
 
 ***
 ## 	Системи та механіки
+На початку гри створюється плоска(покищо) карта, на якій випадково розміщуються такі об'єкти:
+1. <span id="tree" style="color:green">Дерево</span>
+2. <span id="river" style="color:aqua">Річка</span>
+3. <span id="stone" style="color:grey">Камінь</span>
+4. <span id="grass" style="color:lime">Трава</span>
+5. <span id="lake" style="color:Aqua">Озеро</span>
+6. <span id="berries" style="color:Fuchsia">Ягоди</span>
 
+Кількість кожного об'єкта буде визначатися в [параметрах]().
+
+[tree](#tree)
