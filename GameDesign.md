@@ -22,7 +22,7 @@
 ## Стиль гри
 Стиль представляє собою низькополігональні моделі.
 На зображеннях представлено декілька стилів, сподіваюся 3d модельєр зробить щось середнє між ними.
-По настрою і атмосфері гра повинна бути близько до зображень 9, 10, 11, 12.
+По настрою і атмосфері гра повинна бути близько до зображень 8, 9, 10, 11, 12.
 <!-- ### Стиль 1 -->
 ### Image 1 
 ![](https://img.itch.zone/aW1hZ2UvMjc2MzUxLzYyODkxNTEuanBn/original/2sSU7w.jpg)
@@ -34,28 +34,28 @@
 ![](https://preview.redd.it/899z146q2nv21.png?auto=webp&s=930ce1ef392e4ffb5789470a317cb04c0340e9f3)
 
 ### Image 4 
-![](https://preview.free3d.com/img/2020/02/2273169183552308557/89utdouj.jpg)
-
-### Image 5 
 ![](https://img.craftpix.net/2021/02/Free-Medieval-3D-People-Low-Poly-Models.webp)
 
-### Image 6 
+### Image 5 
 ![](https://img.craftpix.net/2020/09/Medieval-Buildings-3D-Pack-360x240.webp)
 
-### Image 7 
+### Image 6 
 ![](https://img.craftpix.net/2020/11/Medieval-Fortress-Pack-3D-Low-Poly-Models-360x240.webp)
 
-### Image 8 
+### Image 7 
 ![](https://img.craftpix.net/2020/08/Free-Medieval-Houses-3D-Low-Poly-Pack-01-360x240.webp)
 
-### Image 9 
+### Image 8 
 ![](https://img.freepik.com/premium-photo/low-poly-style-3d-render-medieval-village_14117-960994.jpg)
 
-### Image 10 
+### Image 9
 ![](https://img.freepik.com/premium-photo/lowpoly-style-3d-rendering-medieval-castle-courtyard-with-bird-flying-overhead_14117-1000800.jpg)
 
+### Image 10 
+![](https://cdn1.epicgames.com/ue/product/Screenshot/Map51-1920x1080-c2eed310e5f4465338a0c30230dd503a.jpg?resize=1&w=1920)
+
 ### Image 11 
-![](https://images.squarespace-cdn.com/content/v1/541d868ce4b0c158abe9c5f3/1526682151792-YT6JY50M2BOCJ2XZG99F/image-asset.jpeg)
+![](https://images.squarespace-cdn.com/content/v1/541d868ce4b0c158abe9c5f3/1526725405654-D0QAOJWEJJRNO4RDUW2A/RPG_Medieval_Kingdom_Kit_66.jpeg)
 
 ### Image 12 
 ![](https://img.freepik.com/premium-photo/lost-treasures-mysterious-isometric-pirate-cove-unforgiving-rpg-town-hauntingly-beautif_983420-7508.jpg)
