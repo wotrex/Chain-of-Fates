@@ -5,14 +5,15 @@
 Жанрами гри є:
 * містобудівництво
 * стратегія
-* виживання
+* симулятор
 
 Сеттінгом гри є середньовіччя.
 
 Ігри зі схожими жанрами та сеттінгом: 
 * Stronghold Crusader 
 * Manor Lords
-* Kingdom Two Crowns.
+* Kingdom Two Crowns
+* Diplomacy is Not an Option
 
 Основна ідея гри це виживання в середньовічном світі, де потрібно будувати своє місто і дбати про благо його жителів. 
 На місто регулярно будуть нападати різні армії ворогів. 
@@ -26,7 +27,7 @@
 <!-- ### Стиль 1 -->
 | Image 1 |
 |:--:| 
-| ![Image 1](https://img.itch.zone/aW1hZ2UvMjc2MzUxLzYyODkxNTEuanBn/original/2sSU7w.jpg) |
+| ![Image 1](https://gamefabrique.com/screenshots2/pc/diplomacy-is-not-an-option-03.big.jpg) |
 
 | Image 2 |
 |:--:| 
@@ -103,9 +104,14 @@
 Снаряди катапульт можуть влучити в будівлі і пошкодити їх.
 Так як це середньовіччя, основна зброя це мечі, списи, луки, арбалети та інше. Також воїни можуть мати різну броню.
 Для захисту міста ці всі речі доведеться виробляти. Втрати під час нападу можуть вплинути на настрій населення.
+Атаки на місто будуть виглядати приблизно як в грі Diplomacy is Not an Option, але повинні виглядати трохи більш серйозно. Наприклад вороги не будуть розлітатися так високо і далеко. Можливо вороги не будуть іти кучою, а розділяться на загони.
+| Як будуть приблизно виглядати осади |
+|:--:| 
+| ![Image 1](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272320/ss_8445452856adbc856f2ee9d1a4c5c36c1f04cbf9.600x338.jpg?t=1736844560) |
+| ![Image 2](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272320/ss_49d5b616e90c1540abe95a2da803ad7a797dd7b6.600x338.jpg?t=1736844560) |
+| ![Image 31](https://www.gamesidestory.com/wp-content/uploads/2022/03/ss_3829c9541fbaab7b8cd557bf571067c28aefe640.1920x1080.jpg) |
+| ![gif](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272320/extras/1_the_law_of_war_opt.gif?t=1736844560) |
 
 ***
 ## 	Системи та механіки
 
-[Посилання на текст жанра](#жанр-і-сеттінг)
-[Посилання на текст стилю](#стиль-гри)
