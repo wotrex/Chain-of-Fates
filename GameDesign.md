@@ -24,7 +24,7 @@
 На зображеннях представлено декілька стилів, сподіваюся 3d модельєр зробить щось середнє між ними.
 По настрою і атмосфері гра повинна бути близько до зображень 8, 9, 10, 11, 12.
 <!-- ### Стиль 1 -->
-![Image 1](https://img.itch.zone/aW1hZ2UvMjc2MzUxLzYyODkxNTEuanBn/original/2sSU7w.jpg)
+![Image 1](https://img.itch.zone/aW1hZ2UvMjc2MzUxLzYyODkxNTEuanBn/original/2sSU7w.jpg "Image 1")
 
 ![Image 2](https://i.ytimg.com/vi/vRUVHhMxgwE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDx1MJ7MZnpsUBnfQDMSzdBpATcXg)
 
