@@ -24,33 +24,61 @@
 На зображеннях представлено декілька стилів, сподіваюся 3d модельєр зробить щось середнє між ними.
 По настрою і атмосфері гра повинна бути близько до зображень 8, 9, 10, 11, 12.
 <!-- ### Стиль 1 -->
-![Image 1](https://img.itch.zone/aW1hZ2UvMjc2MzUxLzYyODkxNTEuanBn/original/2sSU7w.jpg "Image 1")
+| Image 1 |
+|:--:| 
+| ![Image 1](https://img.itch.zone/aW1hZ2UvMjc2MzUxLzYyODkxNTEuanBn/original/2sSU7w.jpg) |
 
-![Image 2](https://i.ytimg.com/vi/vRUVHhMxgwE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDx1MJ7MZnpsUBnfQDMSzdBpATcXg)
+| Image 2 |
+|:--:| 
+| ![Image 2](https://i.ytimg.com/vi/vRUVHhMxgwE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDx1MJ7MZnpsUBnfQDMSzdBpATcXg) |
 
-![Image 3](https://preview.redd.it/899z146q2nv21.png?auto=webp&s=930ce1ef392e4ffb5789470a317cb04c0340e9f3)
+| Image 3 |
+|:--:| 
+| ![Image 3](https://preview.redd.it/899z146q2nv21.png?auto=webp&s=930ce1ef392e4ffb5789470a317cb04c0340e9f3) |
 
-![Image 4](https://img.craftpix.net/2021/02/Free-Medieval-3D-People-Low-Poly-Models.webp)
+| Image 4 |
+|:--:| 
+| ![Image 4](https://img.craftpix.net/2021/02/Free-Medieval-3D-People-Low-Poly-Models.webp) |
 
-![Image 5](https://img.craftpix.net/2020/09/Medieval-Buildings-3D-Pack-360x240.webp)
+| Image 5 |
+|:--:| 
+| ![Image 5](https://img.craftpix.net/2020/09/Medieval-Buildings-3D-Pack-360x240.webp) |
 
-![Image 6](https://img.craftpix.net/2020/11/Medieval-Fortress-Pack-3D-Low-Poly-Models-360x240.webp)
+| Image 6 |
+|:--:| 
+| ![Image 6](https://img.craftpix.net/2020/11/Medieval-Fortress-Pack-3D-Low-Poly-Models-360x240.webp) |
 
-![Image 7](https://img.craftpix.net/2020/08/Free-Medieval-Houses-3D-Low-Poly-Pack-01-360x240.webp)
+| Image 7 |
+|:--:| 
+| ![Image 7](https://img.craftpix.net/2020/08/Free-Medieval-Houses-3D-Low-Poly-Pack-01-360x240.webp) |
 
-![Image 8](https://img.freepik.com/premium-photo/low-poly-style-3d-render-medieval-village_14117-960994.jpg)
+| Image 8 |
+|:--:| 
+| ![Image 8](https://img.freepik.com/premium-photo/low-poly-style-3d-render-medieval-village_14117-960994.jpg) |
 
-![Image 9](https://img.freepik.com/premium-photo/lowpoly-style-3d-rendering-medieval-castle-courtyard-with-bird-flying-overhead_14117-1000800.jpg)
+| Image 9 |
+|:--:| 
+| ![Image 9](https://img.freepik.com/premium-photo/lowpoly-style-3d-rendering-medieval-castle-courtyard-with-bird-flying-overhead_14117-1000800.jpg) |
 
-![Image 10](https://cdn1.epicgames.com/ue/product/Screenshot/Map51-1920x1080-c2eed310e5f4465338a0c30230dd503a.jpg?resize=1&w=1920)
+| Image 10 |
+|:--:| 
+| ![Image 10](https://cdn1.epicgames.com/ue/product/Screenshot/Map51-1920x1080-c2eed310e5f4465338a0c30230dd503a.jpg?resize=1&w=1920) |
 
-![Image 11](https://images.squarespace-cdn.com/content/v1/541d868ce4b0c158abe9c5f3/1526725405654-D0QAOJWEJJRNO4RDUW2A/RPG_Medieval_Kingdom_Kit_66.jpeg)
+| Image 11 |
+|:--:| 
+| ![Image 11](https://images.squarespace-cdn.com/content/v1/541d868ce4b0c158abe9c5f3/1526725405654-D0QAOJWEJJRNO4RDUW2A/RPG_Medieval_Kingdom_Kit_66.jpeg) |
 
-![Image 12](https://img.freepik.com/premium-photo/lost-treasures-mysterious-isometric-pirate-cove-unforgiving-rpg-town-hauntingly-beautif_983420-7508.jpg)
+| Image 12 |
+|:--:| 
+| ![Image 12](https://img.freepik.com/premium-photo/lost-treasures-mysterious-isometric-pirate-cove-unforgiving-rpg-town-hauntingly-beautif_983420-7508.jpg) |
 
-![Image 13](https://i.ytimg.com/vi/o2kVQ-Y2MqU/maxresdefault.jpg)
+| Image 13 |
+|:--:| 
+| ![Image 13](https://i.ytimg.com/vi/o2kVQ-Y2MqU/maxresdefault.jpg) |
 
-![Image 14](https://artline.ua/storage/images/editor/editor_162591119148932_0.jpg)
+| Image 14 |
+|:--:| 
+| ![Image 14](https://artline.ua/storage/images/editor/editor_162591119148932_0.jpg) |
 
 ***
 
