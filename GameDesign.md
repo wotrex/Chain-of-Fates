@@ -275,8 +275,14 @@
 
 В другому стовпчику таблиці, якщо значення має знак -, то це життєво важлива потреба, інашке це додаткова.
 
-| Потреба | Рівень достатку і вплив на настрій | Ресурс       | Задача | Time to next check | -Достаток       |
-|---------|------------------------------------|--------------|--------|--------------------|-----------------|
-| 1 їжа   | 1,2,3,4,5 = -`mood1FoodNeed`       | Будь-яка їжа |        | `time1FoodNeed`    | `cost1FoodNeed` |
-| Сон     | 1,2,3,4,5 = -`moodSleepNeed`       |              | Сон    | `timeSleepNeed`    |                 |
+| Потреба           | Рівень достатку і вплив на настрій                    | Ресурс                       | Задача     | Time to next check   | -Достаток            |
+|-------------------|-------------------------------------------------------|------------------------------|------------|----------------------|----------------------|
+| Їжа 1             | 1,2,3,4,5 = -`moodFood1Need`                          | Будь-яка їжа                 |            | `timeFood1Need`      | `costFood1Need`      |
+| Їжа 2             | 2 = +`moodFood2Need` 3,4,5 = -`moodFood2Need`         | Будь-яка їжа, яка != їжа 1   |            | `timeFood2Need`      | `costFood2Need`      |
+| Їжа 3             | 3 = +`moodFood3Need` 4,5 = -`moodFood3Need`           | Будь-яка їжа, яка != їжа 1,2 |            | `timeFood3Need`      | `costFood3Need`      |
+| Сон               | 1,2,3,4,5 = -`moodSleepNeed`                          |                              | Сон        | `timeSleepNeed`      |                      |
+| Звичайний одяг    | 1 = +`moodClothesNeed` 2,3 = -`moodClothesNeed`       | Одяг                         |            | `timeClothesNeed`    | `costClothesNeed`    |
+| Одяг для багатих  | 3 = +`moodExpClothesNeed` 4,5 = -`moodExpClothesNeed` | Дорогий одяг                 |            | `timeExpClothesNeed` | `costExpClothesNeed` |
+| Сходити в церкву  | 1,2 = +`moodChurchNeed` 3,4,5 = -`moodChurchNeed`     |                              | Помолитися | `timeChurchNeed`     |                      |
+| Сходити в таверну | 1,2 = +`moodTavernNeed` 3 = -`moodTavernNeed`         |                              | Випити     | `timeTavernNeed`     |                      |
 
