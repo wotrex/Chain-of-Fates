@@ -286,3 +286,61 @@
 | Сходити в церкву  | 1,2 = +`moodChurchNeed` 3,4,5 = -`moodChurchNeed`     |                              | Помолитися | `timeChurchNeed`     |                      |
 | Сходити в таверну | 1,2 = +`moodTavernNeed` 3 = -`moodTavernNeed`         |                              | Випити     | `timeTavernNeed`     |                      |
 
+
+
+
+
+## Дизайн
+
+### Дерево
+![tree1](concepts/tree1.png)
+![tree2](concepts/tree2.png)
+![tree3](concepts/tree3.png)
+
+
+<!-- ### Кущі з ягодами і без
+![bush1](concepts/bush.png)
+![bush2](concepts/bush2.png) -->
+
+
+### Намет
+![tent1](concepts/tent1.png)
+![tent2](concepts/tent2.png)
+![tent3](concepts/tent3.png)
+![tent4](concepts/tent4.png)
+
+
+<!-- ### Колодязь
+![well](concepts/well.png) -->
+
+
+### Жилий будинок
+![apart1](concepts/apartment1.png)
+![apart2](concepts/apartment2.png)
+![apart3](concepts/apartment3.png)
+
+### Церква
+![church1](concepts/church1.png)
+![church2](concepts/church2.png)
+![church3](concepts/church3.png)
+![church4](concepts/church4.png)
+![church5](concepts/church5.png)
+![church6](concepts/church6.png)
+
+### Кузня
+![forge1](concepts/forge1.png)
+![forge2](concepts/forge2.png)
+![forge3](concepts/forge3.png)
+
+<!-- ### Лісопилка
+![sawmill1](concepts/sawmill1.png)
+![sawmill2](concepts/sawmill2.png)
+![sawmill3](concepts/sawmill3.png) -->
+
+### Таверна
+![tavern1](concepts/tavern1.png)
+![tavern2](concepts/tavern2.png)
+![tavern3](concepts/tavern3.png)
+![tavern4](concepts/tavern4.png)
+![tavern5](concepts/tavern5.png)
+![tavern6](concepts/tavern6.png)
