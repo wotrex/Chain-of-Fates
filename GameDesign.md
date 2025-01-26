@@ -298,9 +298,9 @@
 ![tree3](concepts/tree3.png)
 
 
-<!-- ### Кущі з ягодами і без
-![bush1](concepts/bush.png)
-![bush2](concepts/bush2.png) -->
+### Кущі з ягодами і без
+![bush1](concepts/bush.jpg)
+![bush2](concepts/bush2.jpg)
 
 
 ### Намет
@@ -310,8 +310,8 @@
 ![tent4](concepts/tent4.png)
 
 
-<!-- ### Колодязь
-![well](concepts/well.png) -->
+### Колодязь
+![well](concepts/well.jpg)
 
 
 ### Жилий будинок
@@ -332,10 +332,10 @@
 ![forge2](concepts/forge2.png)
 ![forge3](concepts/forge3.png)
 
-<!-- ### Лісопилка
+### Лісопилка
 ![sawmill1](concepts/sawmill1.png)
-![sawmill2](concepts/sawmill2.png)
-![sawmill3](concepts/sawmill3.png) -->
+![sawmill2](concepts/sawmill2.jpg)
+![sawmill3](concepts/sawmill3.jpg)
 
 ### Таверна
 ![tavern1](concepts/tavern1.png)
